@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+
+}
+.container .zona img{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    margin: auto;
+    right: 100vh;
+}
+*{
+    background-color: rgb(239, 66, 112);
+    font-size: x-large;
+}
+p{
+    font-size: x-large;
+}
+.container .turismo  img{
+    width: 300px;
+    height: 200px;
+    right: 100vh;
+    padding: 30px;
+}
+.container .turismo li{
+    font-size: x-large;
+}
+.container .comida img{
+    width: 300px;
+    height: 200px;
+    right: 100vh;
+    padding: 30px;
+}
+.container .economia img{
+    width: 300px;
+    height: 200px;
+    right: 100vh;
+    padding: 30px;
+}
