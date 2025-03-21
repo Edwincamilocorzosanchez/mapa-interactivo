@@ -3,6 +3,15 @@ h2{
     color: aliceblue;
     text-align: center;
 }
+p{
+    background-color: rgb(115, 184, 244);
+    color: aliceblue;
+    text-align: center; 
+    margin: auto;
+    align-items: start;
+    font-size: large;
+    padding: 10PX;
+}
 *{
     background-color: black;
 }
